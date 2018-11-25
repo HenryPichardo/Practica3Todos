@@ -1,0 +1,7 @@
+C:\Users\Henry Pichardo\source\repos\Practica3Ejercicio1\Practica3Ejercicio1\bin\Debug\Practica3Ejercicio1.exe.config
+C:\Users\Henry Pichardo\source\repos\Practica3Ejercicio1\Practica3Ejercicio1\bin\Debug\Practica3Ejercicio1.exe
+C:\Users\Henry Pichardo\source\repos\Practica3Ejercicio1\Practica3Ejercicio1\bin\Debug\Practica3Ejercicio1.pdb
+C:\Users\Henry Pichardo\source\repos\Practica3Ejercicio1\Practica3Ejercicio1\obj\Debug\Practica3Ejercicio1.csprojAssemblyReference.cache
+C:\Users\Henry Pichardo\source\repos\Practica3Ejercicio1\Practica3Ejercicio1\obj\Debug\Practica3Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\Henry Pichardo\source\repos\Practica3Ejercicio1\Practica3Ejercicio1\obj\Debug\Practica3Ejercicio1.exe
+C:\Users\Henry Pichardo\source\repos\Practica3Ejercicio1\Practica3Ejercicio1\obj\Debug\Practica3Ejercicio1.pdb

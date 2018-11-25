@@ -1,0 +1,7 @@
+C:\Users\Henry Pichardo\source\repos\Practica3Problema1\Practica3Problema1\bin\Debug\Practica3Problema1.exe.config
+C:\Users\Henry Pichardo\source\repos\Practica3Problema1\Practica3Problema1\bin\Debug\Practica3Problema1.exe
+C:\Users\Henry Pichardo\source\repos\Practica3Problema1\Practica3Problema1\bin\Debug\Practica3Problema1.pdb
+C:\Users\Henry Pichardo\source\repos\Practica3Problema1\Practica3Problema1\obj\Debug\Practica3Problema1.csprojAssemblyReference.cache
+C:\Users\Henry Pichardo\source\repos\Practica3Problema1\Practica3Problema1\obj\Debug\Practica3Problema1.csproj.CoreCompileInputs.cache
+C:\Users\Henry Pichardo\source\repos\Practica3Problema1\Practica3Problema1\obj\Debug\Practica3Problema1.exe
+C:\Users\Henry Pichardo\source\repos\Practica3Problema1\Practica3Problema1\obj\Debug\Practica3Problema1.pdb
